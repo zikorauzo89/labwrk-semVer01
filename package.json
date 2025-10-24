@@ -1,1 +1,1 @@
- "version": "0.1.2"
+{"name":"Zikora","version":"0.1.2","main":"bot.js","author":"Zikora","devDependencies":{"@semantic-release/git":"^10.0.1","@semantic-release/github":"^12.0.0","semantic-release":"^25.0.1"}}
